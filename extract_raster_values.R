@@ -1,4 +1,5 @@
 # Extract raster statistics by admin unit
+# Author: John Mutua
 
 gc(reset = T); rm(list = ls()) 
 if (!require("pacman")) install.packages("pacman")
