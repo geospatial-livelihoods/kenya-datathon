@@ -1,4 +1,5 @@
 # Livestock tropical livestock units
+# Author: John Mutua
 # TLU = Cattle * 0.7 + Sheep * 0.1 + Goat * 0.1 + Chicken * 0.01 + Pig * 0.2 + Horse * 0.8
 
 gc(reset = T); rm(list = ls())

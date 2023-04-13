@@ -1,4 +1,5 @@
 # Convert RWI CSV to raster format
+# Author: John Mutua
 
 gc(reset = T); rm(list = ls())
 library(pacman)
